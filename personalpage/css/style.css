@@ -1,4 +1,6 @@
-html, body, .container-fluid {height: 100%;}
+html,body {
+    height: 80%;
+}
 
 h1 {
     font-family: 'Source Sans Pro', sans-serif;
