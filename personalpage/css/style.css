@@ -2,6 +2,10 @@ html,body {
     height: 80%;
 }
 
+.container {
+    height: 460px;
+}
+
 h1 {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 2.5em;
