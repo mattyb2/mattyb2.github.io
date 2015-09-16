@@ -21,12 +21,13 @@ h2,h3,h4,p {
     padding-top: 55px;
 }
 
-.linkedlogo, mailicon {
+.linkedlogo, {
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
     margin-top: 45px;
     height: 70px; 
+    margin-bottom: 50px;
 }
 
 .mailicon {
@@ -36,6 +37,7 @@ h2,h3,h4,p {
     padding-left: 30px;
     margin-top: 45px;
     height: 70px; 
+    margin-bottom: 50px;
 }
 
 #images{
