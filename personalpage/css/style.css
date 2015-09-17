@@ -2,8 +2,11 @@ html,body {
     height: 80%;
 }
 
-.container {
-    height: 460px;
+.pull-right {
+    height:20px;
+    padding-right: 30px;
+    margin-top: 20px;
+    
 }
 
 h1 {
@@ -40,3 +43,17 @@ h2,h3,h4,p {
 #images{
     text-align:center;
 }
+
+#page {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.page2{
+    padding-left: 10px;
+}
+
+.page3 {
+    padding-left: 10px;
+}
+
