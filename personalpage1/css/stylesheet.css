@@ -27,11 +27,11 @@ h1, h2, h3, h4, h5, p {
 }
 
 #logolarge {
-    margin-top: 150px;
+    margin-top: 125px;
 }
 
 #logosmall {
-    margin-top: 100px;
+    margin-top: 75px;
     display: none;
 }
 
