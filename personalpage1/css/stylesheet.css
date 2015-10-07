@@ -49,6 +49,11 @@ h1, h2, h3, h4, h5, p {
     margin-left: 40px;
 }
 
+.mattimg {
+    max-width: 100%;
+    height: auto;
+}
+
 @media only screen and (max-width: 500px){
    #logolarge{
      display: none;
