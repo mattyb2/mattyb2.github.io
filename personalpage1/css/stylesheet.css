@@ -23,7 +23,7 @@ h1, h2, h3, h4, h5, p {
     font-family: 'Roboto', sans-serif;
     letter-spacing: 2px;
     font-size: 2em;
-    margin-top: 50px;
+    margin-top: 70px;
 }
 
 #logolarge {
@@ -31,14 +31,14 @@ h1, h2, h3, h4, h5, p {
 }
 
 #logosmall {
-    margin-top: 75px;
+    margin-top: 65px;
     display: none;
 }
 
 #images{
     display: table;
     margin: 0 auto;
-    margin-top: 50px;
+    margin-top: 70px;
 }
 
 .linkedlogo, .mailicon {
