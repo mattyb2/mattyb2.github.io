@@ -24,9 +24,24 @@ h1, h2, h3, h4, h5, p {
     margin-top: 20px;
     border: 2px solid white;
     box-shadow: 0 0 0 1.5px #4A90E2;
-    cursor: pointer;
-    
+    cursor: pointer;   
 }
+
+.socialbuttonsml {
+    width: 35px;
+    height: 35px;
+    border-radius: 100%;
+    background-color: #4A90E2;
+    position: fixed;
+    margin-left: 80%; 
+    margin-top: 20px;
+    border: 1px solid white;
+    box-shadow: 0 0 0 1.5px #4A90E2;
+    cursor: pointer; 
+    display: none;
+}
+
+
 
 .swiper-container {
         width: 100%;
@@ -87,7 +102,15 @@ h1, h2, h3, h4, h5, p {
 }
 
 @media only screen and (max-width: 500px){
-   #logolarge{
+   .socialbutton {
+       display: none;
+   }
+    
+    .socialbuttonsml {
+        display: block;
+    }
+    
+    #logolarge{
      display: none;
    }
 
