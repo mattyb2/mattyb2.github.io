@@ -20,28 +20,55 @@ h1, h2, h3, h4, h5, p {
     border-radius: 100%;
     background-color: #4A90E2;
     position: fixed;
-    margin-left: 80%; 
-    margin-top: 20px;
     border: 2px solid white;
     box-shadow: 0 0 0 1.5px #4A90E2;
-    cursor: pointer;   
+    cursor: pointer;
+    display: block;
+    margin-top: 10px;
 }
 
 .socialbuttonsml {
-    width: 40px;
-    height: 40px;
+    width: 38px;
+    height: 38px;
     border-radius: 100%;
     background-color: #4A90E2;
     position: fixed;
-    margin-left: 82.5%; 
-    margin-top: 20px;
-    border: 1px solid white;
+    border: 2px solid white;
     box-shadow: 0 0 0 1.5px #4A90E2;
     cursor: pointer; 
     display: none;
+    margin-top: 10px;
 }
 
+#button {
+    display: block;
+}
 
+#instagram {
+    display: block;
+    margin-top: 60px;
+    margin-left: -4px;
+}
+
+#twitter {
+    display: block;
+    margin-top: 10px;
+    margin-left: -4px;
+}
+
+#soundcloud {
+    display: block;
+    margin-top: 10px;
+    margin-left: -4px;
+}
+
+.socialicons {
+    list-style: none;
+    display: inline-block;
+    margin-left: 75%;
+    position: fixed;
+    clear: both;
+}
 
 .swiper-container {
         width: 100%;
